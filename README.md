@@ -7,4 +7,6 @@
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=Microsoft Azure&logoColor=white"/></a>
 
 # Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MebukiYamashi)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MebukiYamashi&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MebukiYamashi&layout=compact&theme=transparent)
